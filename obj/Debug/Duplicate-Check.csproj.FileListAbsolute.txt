@@ -1,0 +1,7 @@
+C:\Users\adjse\source\repos\Duplicate-Check\Duplicate-Check\bin\Debug\Duplicate-Check.exe.config
+C:\Users\adjse\source\repos\Duplicate-Check\Duplicate-Check\bin\Debug\Duplicate-Check.exe
+C:\Users\adjse\source\repos\Duplicate-Check\Duplicate-Check\bin\Debug\Duplicate-Check.pdb
+C:\Users\adjse\source\repos\Duplicate-Check\Duplicate-Check\obj\Debug\Duplicate-Check.csproj.AssemblyReference.cache
+C:\Users\adjse\source\repos\Duplicate-Check\Duplicate-Check\obj\Debug\Duplicate-Check.csproj.CoreCompileInputs.cache
+C:\Users\adjse\source\repos\Duplicate-Check\Duplicate-Check\obj\Debug\Duplicate-Check.exe
+C:\Users\adjse\source\repos\Duplicate-Check\Duplicate-Check\obj\Debug\Duplicate-Check.pdb
